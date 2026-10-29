@@ -1,0 +1,6 @@
+{
+  "name": "Caderno de Metacognição — IA na Escola",
+  "description": "Caderno digital de metacognição para estudantes do Ensino Médio registrarem e debaterem a política de uso de Inteligência Artificial na escola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
